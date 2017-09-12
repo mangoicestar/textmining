@@ -1,0 +1,12 @@
+font/
+logs/
+model/
+static/
+text/
+*.pkl
+*.csv
+*.jpeg
+*.jpg
+*.JPG
+__pycache__/
+dict.txt.big
